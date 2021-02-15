@@ -59,5 +59,3 @@ Adicione `cd ~` dentro do arquivo.
 - [Linux no Windows 10 com zsh Feliz](https://www.youtube.com/watch?v=iZaNTuNorWw&list=PLirko8T4cEmw2kCe2YEMSjxg_hydVZIR-)
 - [Instalando WSL no WINDOWS 10](https://www.youtube.com/watch?v=Et04OjK8gPo) 
 - [# WslRegisterDistribution failed with error 0x8007019e and 0x8000000d – WSL](https://www.thewindowsclub.com/wslregisterdistribution-failed-with-error-0x8007019e-0x8000000d)
-
-```
